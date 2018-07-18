@@ -1,6 +1,9 @@
 # HttpLibrary
 网络加载module, retrofit+okhttp+rxjava，有日志输出，加载图为西瓜，可自己修改颜色啥的，很快会加上二级缓存
+
 使用方式如下：
+0、更改ParamsUtil中的mBaseUrl内容，一半为接口地址的固定头部
+
 1、创建一个interface文件，用于声明和管理接口信息,如：
 public interface TestRequest {
 

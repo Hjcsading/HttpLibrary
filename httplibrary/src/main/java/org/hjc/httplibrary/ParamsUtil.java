@@ -8,7 +8,7 @@ public class ParamsUtil {
     public static final boolean IS_DEBUG = true;
     public static Application APPLICATION;
 
-    public String mBaseUrl = "http://etctest.sunruncn.com/FutureETC/rest/sunrun/";   //基础url 需以"/"结尾
+    public String mBaseUrl = "";   //基础url 需以"/"结尾
     public short mTimeout = 3 * 1000;  //超时时间，默认3秒
     public int mMaxConnectionNum = 5;  //连接池的最大连接数，默认5个
     public int mConnectionRetain = 5 * 1000;   //连接池中的连接保留时间 ,默认5秒

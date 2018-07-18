@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--加载框的值 ： 分割线粗度， 外圈粗度， 默认宽高-->
+    <dimen name="split_width">0.75dp</dimen>
+    <dimen name="oval_width">2dp</dimen>
+</resources>

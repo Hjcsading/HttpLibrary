@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--加载圈的样式-->
+    <color name="overColor">#008000</color>
+    <color name="splitColor">#FDF5E6</color>
+    <color name="innerColor">#FF4500</color>
+    <color name="progress_bg">#00000000</color>
+</resources>
